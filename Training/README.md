@@ -4,7 +4,7 @@ This document describes the steps to create a **conda-based Python environment**
 and install all required dependencies for running **VoxelMorph** using **PyTorch**.
 
 
-# Create and Activate Conda Environment
+## Create and Activate Conda Environment and run training
 
 ```bash
 conda create -n voxelmorph_rig python=3.10 -y
@@ -23,7 +23,7 @@ pip install tensorboard
 pip install SimpleITK
 pip install natsort
 
-# Please set dataset, model save paths etc
+#Please set dataset, model save paths etc
 
 /dataset_split/
 ├── train/
