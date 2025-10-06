@@ -11,13 +11,14 @@ and install all required dependencies for running **VoxelMorph** using **PyTorch
 conda create -n voxelmorph_rig python=3.10 -y
 conda activate voxelmorph_rig
 
-# Install PyTorch
+## Install PyTorch
 
-Choose the CUDA version that matches your system (below uses CUDA 12.1).
+## Choose the CUDA version that matches your system (below uses CUDA 12.1).
 If you are using CPU only, you can omit the --index-url flag.
+
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
-3. Install Core Dependencies
+## Install Core Dependencies
 pip install nibabel h5py scikit-image matplotlib tqdm
 pip install tensorboard
 pip install SimpleITK
