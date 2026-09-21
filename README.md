@@ -1,3 +1,13 @@
+# Run the code 2025
+
+| File                            | Description                                |
+| ------------------------------- | ------------------------------------------ |
+| `Registration_prediction.ipynb` | Main notebook for running prediction       |
+| ` prediction/trained_weights/`  | Folder containing pretrained model weights |
+| `Val_data/test_sample/`         | Small sample dataset for testing           |
+# Download dataset link for training and validation
+https://mega.nz/file/NHMSkC4R#9yvIKvQV9r9QBQ1RMN9kSSVx3ZYr6mN8v5pTy_n6gME
+
 ## 2026 Update: LV Mesh Motion Analysis
 
 This year's material extends the cardiac motion analysis framework with
@@ -65,15 +75,3 @@ The practical component demonstrates how to:
 4. Calculate vertex-wise displacement from ED.
 5. Visualise regional LV displacement on the 3D mesh.
 6. Plot motion trajectories throughout the cardiac cycle.
-
-
-# Run the code
-
-| File                            | Description                                |
-| ------------------------------- | ------------------------------------------ |
-| `Registration_prediction.ipynb` | Main notebook for running prediction       |
-| ` prediction/trained_weights/`  | Folder containing pretrained model weights |
-| `Val_data/test_sample/`         | Small sample dataset for testing           |
-# Download dataset link for training and validation
-https://mega.nz/file/NHMSkC4R#9yvIKvQV9r9QBQ1RMN9kSSVx3ZYr6mN8v5pTy_n6gME
-
