@@ -76,6 +76,9 @@ The practical component demonstrates how to:
 5. Visualise regional LV displacement on the 3D mesh.
 6. Plot motion trajectories throughout the cardiac cycle.
 
+https://drive.google.com/file/d/1_DGbDMLhNTZSTMtYxdqlkOe9HyeukF1f/view?usp=sharing
+
+
 ### References
 
 https://github.com/j-duan/4Dsegment
