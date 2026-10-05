@@ -77,6 +77,8 @@ The practical component demonstrates how to:
 6. Plot motion trajectories throughout the cardiac cycle.
 
 ### References
+
 https://github.com/j-duan/4Dsegment
+
 https://github.com/rezamovahed93/CardioMorphNet
    
