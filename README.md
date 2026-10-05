@@ -75,3 +75,8 @@ The practical component demonstrates how to:
 4. Calculate vertex-wise displacement from ED.
 5. Visualise regional LV displacement on the 3D mesh.
 6. Plot motion trajectories throughout the cardiac cycle.
+
+### References
+https://github.com/j-duan/4Dsegment
+https://github.com/rezamovahed93/CardioMorphNet
+   
